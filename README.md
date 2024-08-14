@@ -1,6 +1,5 @@
 # PWSkills_JSHoisting
 
-# PWSkills_JS
 
 1. Write a function called "addNumbers" that take two numbers as arguments and returns their sum. Call the function before it is declared to demonstrate hoisting.
 
